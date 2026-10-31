@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Telemetry output (yours is personal - don't commit it)
+wu-telemetry*.csv
+*.log
+
+# Game config backups
+*.bak-*
